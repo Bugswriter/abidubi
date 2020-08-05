@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/** AbiDubbi
+/** Fsociety
 Free Calci Software Source Code
 written by bugswriter
 */
