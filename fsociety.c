@@ -6,9 +6,9 @@ written by bugswriter
 */
 
 void welcome(){
-  printf("== AbiDubbi ==\n");
+  printf("== Fsociety ==\n");
   printf("Free, Open Source, Community made Calci software\n");
-  printf("Feel free to donate us - abidubbi.org/donate\n");
+  printf("Feel free to donate us - fsociety.org/donate\n");
   printf("If you face any problem ask in our forum and community groups\n\n");
 }
 
